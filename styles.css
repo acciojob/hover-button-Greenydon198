@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
 #btn{
+	border:0px none white;
 	background:black;
 	color:white;
 	border-radius:5px;
